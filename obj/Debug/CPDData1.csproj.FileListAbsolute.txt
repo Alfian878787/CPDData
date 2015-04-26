@@ -1,0 +1,6 @@
+c:\Users\saicharan\documents\visual studio 2013\Projects\CPDData\CPDData1\bin\Debug\CPDData1.exe.config
+c:\Users\saicharan\documents\visual studio 2013\Projects\CPDData\CPDData1\bin\Debug\CPDData1.exe
+c:\Users\saicharan\documents\visual studio 2013\Projects\CPDData\CPDData1\bin\Debug\CPDData1.pdb
+c:\Users\saicharan\documents\visual studio 2013\Projects\CPDData\CPDData1\obj\Debug\CPDData1.csprojResolveAssemblyReference.cache
+c:\Users\saicharan\documents\visual studio 2013\Projects\CPDData\CPDData1\obj\Debug\CPDData1.exe
+c:\Users\saicharan\documents\visual studio 2013\Projects\CPDData\CPDData1\obj\Debug\CPDData1.pdb
