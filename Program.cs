@@ -85,8 +85,8 @@ namespace CPDData1
                     return false ;
                 }                  
             }
-            Console.WriteLine("Read Successful");
-            Console.ReadKey();
+            //Console.WriteLine("Read Successful");
+           // Console.ReadKey();
             return true;
         }
 
